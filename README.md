@@ -1,2 +1,2 @@
-# travely
- A Flutter application that uses Goole Maps and travel advisor to create custom travel itineraries.
+# Travely-App
+ The Flutter Application creates preplanned travel itineraries using API's from Google maps and Travel Advisor.
